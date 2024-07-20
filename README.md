@@ -1,4 +1,4 @@
-Coffee Shop Sales Dashboard 
+Coffee Shop Sales Dashboard - MY SQL - POWER BI
 
 ![Coffee sales dashboard](https://github.com/user-attachments/assets/c01246de-02ce-4801-87aa-8c626a31851a)
 
